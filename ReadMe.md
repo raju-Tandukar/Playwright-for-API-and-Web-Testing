@@ -2,7 +2,7 @@
 # Playwright API and Web Testing Setup Guide
 ---
 
-This is a Playwright API and Web testing framework designed to demonstrate playwright testing example
+This is a Playwright API and Web testing framework designed to demonstrate playwright testing example. For test perpose i have use test website https://www.automationexercise.com/.
 
 ## Features of this framework
 * Playwright API Testing
