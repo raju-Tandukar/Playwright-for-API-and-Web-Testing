@@ -1,0 +1,20 @@
+{
+    "title": "Mr",
+    "name": "test71",
+    "email": "test71@test.com",
+    "password": "test@71",
+    "days": "1",
+    "months": "1",
+    "years": "2019",
+    "firstname": "Raju",
+    "lastname": "Tandukar",
+    "company": "Sanduk Trading Pvt ltd",
+    "address1": "Kupondol",
+    "address2": "kup",
+    "country": "India",
+    "state": "3",
+    "city": "Delhi",
+    "zipcode": "44700",
+    "mobile_number": "+9779861611377",
+    "form_type": "create_account"
+}

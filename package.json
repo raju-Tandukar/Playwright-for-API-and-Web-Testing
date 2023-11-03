@@ -1,0 +1,17 @@
+{
+  "name": "github-api",
+  "version": "0.0.1",
+  "scripts": {
+    "test": "npx playwright test",
+    "test_api": "npx playwright test tests/apiTest.spec.ts --workers=1 --reporter=html",
+    "test_web": "npx playwright test tests/webTesting.spec.ts --workers=1 --reporter=html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.39.0",
+    "@types/node": "^20.8.9",
+    "@axe-core/playwright": "4.6.0"
+  }
+}
